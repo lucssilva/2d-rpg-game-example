@@ -14,6 +14,7 @@ public class Main {
 		janela.pack();
 		janela.setTitle("RPG Exemplo");
 		janela.setVisible(true);
+		game.start();
 	}
 
 }
